@@ -1,0 +1,12 @@
+package co.mintic.DAO;
+
+public class prueba {
+
+	public static void main(String[] args) 
+	{
+		Conexion c=new Conexion();
+		c.getConnection();
+
+	}
+
+}

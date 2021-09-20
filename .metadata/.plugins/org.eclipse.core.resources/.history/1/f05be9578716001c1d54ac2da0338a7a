@@ -1,0 +1,5 @@
+package co.mintic.DAO;
+
+public class Conexion {
+
+}

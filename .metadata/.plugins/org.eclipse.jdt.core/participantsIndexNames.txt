@@ -1,0 +1,119 @@
+INDEX VERSION 1.131
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1566360848.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\310431237.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3207737361.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2437141370.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2066831472.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1317518237.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\26562823.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2812680505.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2096407671.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1265539855.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1359965270.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2349088620.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2161402902.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\733583007.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2725831340.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\80736744.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1847928189.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\750452968.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2310821778.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2309717813.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\509046235.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3538101984.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\511710367.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2816920103.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2227187720.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3421077006.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3712140112.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2809277782.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4191316601.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\750507319.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3146204133.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1740153892.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2018667817.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2475043504.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4287050173.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2111272221.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\133513450.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1444928576.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3060555169.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\835359352.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3185459808.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3157862321.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2669933881.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\810140283.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2207404656.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\763744487.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1281900591.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\820318916.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3399233123.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2937115651.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1250972382.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2727980694.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1674400673.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2080732120.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4077876802.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2721723159.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4137694747.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1427425677.index
+\tiendaVirtual\src\main\java
+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\839345160.index
+\tiendaVirtual\src\main\java

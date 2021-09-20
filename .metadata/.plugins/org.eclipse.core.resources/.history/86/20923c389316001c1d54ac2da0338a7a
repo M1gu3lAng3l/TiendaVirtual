@@ -1,0 +1,27 @@
+package co.mintic.DAO;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class prueba {
+
+	public static void main(String[] args) throws SQLException 
+	{
+		Conexion c=new Conexion();
+		//c.getConnection();
+		
+		//Connection conexion = DriverManager.getConnection("jdbc:mysql://localhost/prueba", "root","root");
+		Statement sentencia = c.getConnection().createStatement();
+		String nombre="Angel Pulido";
+		String consulta = "select * from clientes where nombre_cliente='"+nombre+"'";
+		ResultSet rs=sentencia.executeQuery(consulta);
+		//System.out.println(rs);
+		
+		while (rs.next())
+		{
+		    System.out.println (" Cedula "+rs.getInt(1) + " Direccion  " + rs.getString (2)+ " Correo  " + rs.getNString(3)+ "Nombre" + rs.getString(4)+"Telefono"+ rs.getString(5));
+		}
+	}
+
+}

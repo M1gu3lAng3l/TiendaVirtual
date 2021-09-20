@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Miguel Angel\Downloads\tiendaVirtual\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1726418873.index
+3537798203.index
+520831152.index
+2197407389.index
+4041906671.index
+3080271790.index
